@@ -1,0 +1,19 @@
+{
+  "name": "tailwind-for-begginer",
+  "version": "1.0.0",
+  "description": "## 静的コンテンツのための環境作成",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ITP-system/tailwind-for-begginer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ITP-system/tailwind-for-begginer/issues"
+  },
+  "homepage": "https://github.com/ITP-system/tailwind-for-begginer#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
