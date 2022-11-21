@@ -5,12 +5,18 @@
 以下を実行してください.
 
 ```
-npx tailwindcss build ./public/tailwind.css -o public/style.css --w
+npx tailwindcss build ./src/input.css -o ./dist/output.css --w
 atch
 ```
 
-## 静的コンテンツのための環境作成
+## インストレーション
 
-公式の以下のページの通りに作成ください.
+公式の以下のページの通りに実施してください.
 
 https://tailwindcss.com/docs/installation
+
+## ブラウザサポート
+
+公式の以下のページの通りに実施してください.
+
+https://tailwindcss.com/docs/browser-support
